@@ -3,3 +3,4 @@ __pycache__/
 venv/
 data/
 temp_uploads/
+.DS_Store
