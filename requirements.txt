@@ -1,0 +1,22 @@
+# requirements.txt
+#pip install -r requirements.txt  to install all library
+
+
+# --- Core ML & Deep Learning ---
+torch
+torchvision
+transformers
+
+# --- Data Handling & Manipulation ---
+numpy
+pandas
+scikit-learn
+
+# --- Video & Audio Processing ---
+opencv-python
+moviepy==1.0.3
+librosa
+
+# --- Web Application Framework ---
+streamlit
+
